@@ -1,0 +1,11 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lu87sy/learnjs.git",
+  "author": "lu87sy <lu87sy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.3.1"
+  }
+}
